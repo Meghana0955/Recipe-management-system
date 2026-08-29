@@ -44,9 +44,10 @@ The system can use:
 - **Graph-based relationships / GNN**
 
 ## Basic workflow:
-
 🏗️ System Architecture
-                            USER
+```text
+
+              USER
                 │
                 ▼
       ┌──────────────────┐
@@ -68,7 +69,7 @@ The system can use:
  │ AI / NLP    │ │  MongoDB    │
  │ Recommendation│ │   Atlas    │
  └─────────────┘ └─────────────┘
- 
+```
 ## ✨ Main Features
 
 🔐 User Login
@@ -89,7 +90,7 @@ AI / NLP  : Word2Vec, GloVe, Sentence Transformers
 Tools     : VS Code, Git, GitHub
 
 ## 📁 Project Structure
-
+```text
 recipe-ai/
 │
 ├── frontend/
@@ -107,7 +108,7 @@ recipe-ai/
 │   └── .env
 │
 └── README.md
-
+```
 ## ⚙️ Working
 
 Recipe Recommendation
