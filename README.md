@@ -46,7 +46,7 @@ The system can use:
 ## Basic workflow:
 
 🏗️ System Architecture
-              USER
+                            USER
                 │
                 ▼
       ┌──────────────────┐
@@ -68,6 +68,7 @@ The system can use:
  │ AI / NLP    │ │  MongoDB    │
  │ Recommendation│ │   Atlas    │
  └─────────────┘ └─────────────┘
+ 
 ## ✨ Main Features
 
 🔐 User Login
